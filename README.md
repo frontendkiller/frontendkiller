@@ -1,5 +1,5 @@
 <h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
-##  I'm Serkan Çağman a Front End Developer in Turkey
+## I'm Serkan Çağman a Front End Developer in Turkey
 
 
 - 🌱 I’m currently learning React
